@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpsa/filament-dadjokes": "^2.0"
+    }
+}
